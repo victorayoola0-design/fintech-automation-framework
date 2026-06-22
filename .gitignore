@@ -1,0 +1,15 @@
+# IntelliJ IDEA local settings
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Maven build directory
+target/
+
+# Log files
+*.log
+
+# Sensitive environment variables
+.env
